@@ -1,103 +1,59 @@
-test-other/1688/142285/1688_142285_000000_000000|'Margaret!' said mr Hale, as he returned from showing his guest downstairs; 'I could not help watching your face with some anxiety, when mr Thornton made his confession of having been a shop boy.
-test-other/1688/142285/1688_142285_000046_000000|'No, mamma; that Anne Buckley would never have done.'
-test-other/1998/15444/1998_15444_000012_000000|Simple filtration will sometimes suffice to separate the required substance; in other cases dialysis will be necessary, in order that crystalloid substances may be separated from colloid bodies.
-test-other/1998/29454/1998_29454_000021_000001|Fried eggs and bacon-he had one egg and the man had three-bread and butter-and if the bread was thick, so was the butter-and as many cups of tea as you liked to say thank you for.
-test-other/1998/29454/1998_29454_000053_000001|It almost looked, Dickie thought, as though he had brought them out for some special purpose.
-test-other/1998/29455/1998_29455_000022_000000|It was a wonderful day.
-test-other/1998/29455/1998_29455_000082_000003|But 'e's never let it out."
-test-other/2414/128292/2414_128292_000003_000000|"What!" said he, "have not the most ludicrous things always happened to us old anchorites and saints?
-test-other/2609/156975/2609_156975_000036_000004|The cruel fate of his people and the painful experience in Egypt that had driven him into the wilderness prepared his mind to receive this training.
-test-other/3005/163389/3005_163389_000017_000001|And they laughed all the time, and that made the duke mad; and everybody left, anyway, before the show was over, but one boy which was asleep.
-test-other/3005/163390/3005_163390_000023_000021|S'pose people left money laying around where he was  what did he do?
-test-other/3005/163391/3005_163391_000021_000000|"It's a pretty long journey.
-test-other/3005/163399/3005_163399_000013_000002|When we got there she set me down in a split bottomed chair, and set herself down on a little low stool in front of me, holding both of my hands, and says:
-test-other/3005/163399/3005_163399_000045_000000|He sprung to the window at the head of the bed, and that give mrs Phelps the chance she wanted.
-test-other/3080/5040/3080_5040_000000_000010|You have no such ladies in Ireland?
-test-other/3331/159605/3331_159605_000006_000002|I could do so much for all at home how I should enjoy that!" And Polly let her thoughts revel in the luxurious future her fancy painted.
-test-other/3331/159605/3331_159605_000082_000000|"Who got up that nice idea, I should like to know?" demanded Polly, as Fanny stopped for breath.
-test-other/3528/168656/3528_168656_000003_000003|She told wonders of the Abbey of Fontevrault,--that it was like a city, and that there were streets in the monastery.
-test-other/3528/168669/3528_168669_000030_000000|A silence ensued.
-test-other/3528/168669/3528_168669_000075_000000|"Like yourself, reverend Mother."
-test-other/3528/168669/3528_168669_000123_000000|"But the commissary of police-"
-test-other/3528/168669/3528_168669_000137_000000|"That is well."
-test-other/3528/168669/3528_168669_000164_000008|I shall have my lever.
-test-other/3538/142836/3538_142836_000021_000003|However, as late as the reigns of our two last Georges, fabulous sums were often expended upon fanciful desserts.
-test-other/3538/163619/3538_163619_000054_000000|'Now he says that you are to make haste and throw yourself overboard,' answered the step mother.
-test-other/3538/163622/3538_163622_000069_000000|So they travelled onwards again, for many and many a mile, over hill and dale.
-test-other/3538/163624/3538_163624_000038_000000|Then Sigurd went down into that deep place, and dug many pits in it, and in one of the pits he lay hidden with his sword drawn.
-test-other/367/130732/367_130732_000002_000001|Probably nowhere in San Francisco could one get lobster better served than in the Old Delmonico restaurant of the days before the fire.
-test-other/3764/168670/3764_168670_000003_000000|"But you, Father Madeleine?"
-test-other/3764/168670/3764_168670_000043_000000|"Yes."
-test-other/3764/168670/3764_168670_000083_000005|He grumbled:--
-test-other/3764/168671/3764_168671_000012_000003|He did what he liked with him.
-test-other/3764/168671/3764_168671_000046_000000|"Comrade!" cried Fauchelevent.
-test-other/3997/180294/3997_180294_000023_000000|Then, when God allows love to a courtesan, that love, which at first seems like a pardon, becomes for her almost without penitence.
-test-other/3997/180294/3997_180294_000065_000001|The count will be coming back, and there is nothing to be gained by his finding you here."
-test-other/3997/180297/3997_180297_000034_000004|For these people we have to be merry when they are merry, well when they want to sup, sceptics like themselves.
-test-other/3997/182399/3997_182399_000014_000003|Oh, my, no!
-test-other/4198/61336/4198_61336_000000_000003|It is significant to note in this connection that the new king was an unswerving adherent of the cult of Ashur, by the adherents of which he was probably strongly supported.
-test-other/4198/61336/4198_61336_000033_000001|Nabonassar had died and was succeeded by his son Nabu nadin zeri, who, after reigning for two years, was slain in a rebellion.
-test-other/4294/14317/4294_14317_000022_000011|I do not condescend to smite you.  He looked at me submissively and said nothing.
-test-other/4294/35475/4294_35475_000018_000001|At last they reached a wide chasm that bounded the Ogre's domain.
-test-other/4294/35475/4294_35475_000050_000002|They said, "We are only waiting to lay some wily plan to capture the Ogre."
-test-other/4294/9934/4294_9934_000025_000000|"Gold; here it is."
-test-other/4350/10919/4350_10919_000006_000000|"Immediately, princess.
-test-other/4350/9170/4350_9170_000005_000001|Authority, in the sense in which the word is ordinarily understood, is a means of forcing a man to act in opposition to his desires.
-test-other/4350/9170/4350_9170_000056_000000|But the fatal significance of universal military service, as the manifestation of the contradiction inherent in the social conception of life, is not only apparent in that.
-test-other/4852/28311/4852_28311_000031_000001|After a step or two, not finding his friend beside him, he turned.
-test-other/4852/28319/4852_28319_000013_000002|mr Wicker waited patiently beside him for a few moments for Chris to get up his courage.
-test-other/533/1066/533_1066_000008_000000|"I mean," he persisted, "do you feel as though you could go through with something rather unusual?"
-test-other/533/131562/533_131562_000018_000000|mr Huntingdon then went up stairs.
-test-other/5442/41168/5442_41168_000002_000001|Sergey Ivanovitch, waiting till the malignant gentleman had finished speaking, said that he thought the best solution would be to refer to the act itself, and asked the secretary to find the act.
-test-other/5442/41169/5442_41169_000003_000000|"He's such a blackguard!
-test-other/5442/41169/5442_41169_000030_000000|"And with what he made he'd increase his stock, or buy some land for a trifle, and let it out in lots to the peasants," Levin added, smiling. He had evidently more than once come across those commercial calculations.
-test-other/5484/24317/5484_24317_000040_000006|Let us hope that you will make this three leaved clover the luck promising four leaved one.
-test-other/5484/24318/5484_24318_000015_000002|The blood of these innocent men would be on his head if he did not listen to her representations.
-test-other/5484/24318/5484_24318_000068_000001|He was appearing before his companions only to give truth its just due.
-test-other/5764/299665/5764_299665_000041_000004|He saw the seeds that man had planted wither and perish, but he sent no rain.
-test-other/5764/299665/5764_299665_000070_000000|Think of the egotism of a man who believes that an infinite being wants his praise!
-test-other/5764/299665/5764_299665_000102_000000|The first stone is that matter-substance-cannot be destroyed, cannot be annihilated.
-test-other/5764/299665/5764_299665_000134_000000|You cannot reform these people with tracts and talk.
-test-other/6070/63485/6070_63485_000025_000003|Hand me the cash, and I will hand you the pocketbook."
-test-other/6070/86744/6070_86744_000027_000000|"Have you bachelor's apartments there?
-test-other/6070/86745/6070_86745_000001_000002|Two windows only of the pavilion faced the street; three other windows looked into the court, and two at the back into the garden.
-test-other/6128/63240/6128_63240_000012_000002|Neither five nor fifteen, and yet not ten exactly, but either nine or eleven.
-test-other/6128/63240/6128_63240_000042_000002|mrs Luna explained to her sister that her freedom of speech was caused by his being a relation-though, indeed, he didn't seem to know much about them.
-test-other/6128/63244/6128_63244_000002_000000|"I can't talk to those people, I can't!" said Olive Chancellor, with a face which seemed to plead for a remission of responsibility.
-test-other/6432/63722/6432_63722_000026_000000|"Not the least in the world-not as much as you do," was the cool answer.
-test-other/6432/63722/6432_63722_000050_000004|Queen Elizabeth was very fond of watches and clocks, and her friends, knowing that, used to present her with beautiful specimens. Some of the watches of her day were made in the form of crosses, purses, little books, and even skulls."
-test-other/6432/63722/6432_63722_000080_000003|When it does it will create a sensation."
-test-other/6432/63723/6432_63723_000026_000000|"No; but he will, or I'll sue him and get judgment.
-test-other/6432/63723/6432_63723_000057_000000|"Then for the love of-"
-test-other/6432/63723/6432_63723_000080_000000|"Hello, Harry!
-test-other/6938/70848/6938_70848_000046_000003|Show me the source!"
-test-other/6938/70848/6938_70848_000104_000000|With biting sarcasm he went on to speak of the Allied diplomats, till then contemptuous of Russia's invitation to an armistice, which had been accepted by the Central Powers.
-test-other/7105/2330/7105_2330_000021_000000|"He won't go unless he has a brass band.
-test-other/7105/2340/7105_2340_000015_000001|We feel that we must live on cream for the rest of our lives.
-test-other/7902/96591/7902_96591_000008_000001|I did not come to frighten you; you frightened me."
-test-other/7902/96591/7902_96591_000048_000000|"No," he thought to himself, "I don't believe they would kill me, but they would knock me about."
-test-other/7902/96592/7902_96592_000024_000001|Once out of that room he could ran, and by daylight the smugglers dare not hunt him down.
-test-other/7902/96592/7902_96592_000063_000000|"What for?" cried Ram.
-test-other/7902/96594/7902_96594_000014_000001|These fellows are very cunning, but we shall be too many for them one of these days."
-test-other/7902/96594/7902_96594_000062_000001|Keep a sharp look out on the cliff to see if Mr Raystoke is making signals for a boat.
-test-other/7902/96595/7902_96595_000039_000000|The man shook his head, and stared as if he didn't half understand the drift of what was said.
-test-other/7975/280057/7975_280057_000009_000000|Naturally we were Southerners in sympathy and in fact.
-test-other/7975/280057/7975_280057_000025_000004|On reaching the camp the first person I saw whom I knew was Cole Younger.
-test-other/7975/280076/7975_280076_000013_000001|I will give you this outline and sketch of my whereabouts and actions at the time of certain robberies with which I am charged.
-test-other/7975/280084/7975_280084_000007_000000|But between the time we broke camp and the time they reached the bridge the three who went ahead drank a quart of whisky, and there was the initial blunder at Northfield.
-test-other/7975/280085/7975_280085_000005_000002|Some of the boys wanted to kill him, on the theory that "dead men tell no tales," while others urged binding him and leaving him in the woods.
-test-other/8131/117016/8131_117016_000005_000000|The Stonewall gang numbered perhaps five hundred.
-test-other/8131/117016/8131_117016_000025_000001|"And don't let them get away!"
-test-other/8131/117016/8131_117016_000047_000006|I can always go back to Earth, and I'll try to take you along.
-test-other/8131/117017/8131_117017_000005_000000|Gordon hit the signal switch, and the Marspeaker let out a shrill whistle.
-test-other/8131/117017/8131_117017_000020_000003|There's no graft out here."
-test-other/8131/117029/8131_117029_000007_000002|Wrecks were being broken up, with salvageable material used for newer homes. Gordon came to a row of temporary bubbles, individual dwellings built like the dome, but opaque for privacy.
-test-other/8131/117029/8131_117029_000023_000004|But there'll be pushers as long as weak men turn to drugs, and graft as long as voters allow the thing to get out of their hands.
-test-other/8188/269288/8188_269288_000018_000000|A few moments later there came a tap at the door.
-test-other/8188/269288/8188_269288_000053_000001|"Do you want to kill me?
-test-other/8188/269290/8188_269290_000035_000001|"But now, Leslie, what is the trouble?
-test-other/8188/269290/8188_269290_000065_000000|"I don't think she is quite well," replied Leslie.
-test-other/8280/266249/8280_266249_000030_000000|The ladies were weary, and retired to their state rooms shortly after tea, but the gentlemen sought the open air again and paced the deck for some time.
-test-other/8280/266249/8280_266249_000113_000000|It was the last game of cards for that trip.
-test-other/8461/278226/8461_278226_000026_000000|Laura thanked the French artist and then took her husband's arm and walked away with him.
-test-other/8461/281231/8461_281231_000029_000002|Before long the towering flames had surmounted every obstruction, and rose to the evening skies one huge and burning beacon, seen far and wide through the adjacent country; tower after tower crashed down, with blazing roof and rafter.
+test-other/1688/142285/1688-142285-0000|1688-142285-0000 THERE'S IRON THEY SAY IN ALL OUR BLOOD AND A GRAIN OR TWO PERHAPS IS GOOD BUT HIS HE MAKES ME HARSHLY FEEL HAS GOT A LITTLE TOO MUCH OF STEEL ANON
+test-other/1688/142285/1688-142285-0050|1688-142285-0000 THERE'S IRON THEY SAY IN ALL OUR BLOOD AND A GRAIN OR TWO PERHAPS IS GOOD BUT HIS HE MAKES ME HARSHLY FEEL HAS GOT A LITTLE TOO MUCH OF STEEL ANON
+test-other/1998/15444/1998-15444-0004|1998-15444-0000 IF CALLED TO A CASE SUPPOSED OR SUSPECTED TO BE ONE OF POISONING THE MEDICAL MAN HAS TWO DUTIES TO PERFORM TO SAVE THE PATIENT'S LIFE AND TO PLACE HIMSELF IN A POSITION TO GIVE EVIDENCE IF CALLED ON TO DO SO
+test-other/1998/29454/1998-29454-0026|1998-29454-0000 A THOUSAND BLESSINGS FROM A GRATEFUL HEART
+test-other/1998/29455/1998-29455-0029|1998-29455-0000 THE SINGING AND LAUGHING WENT ON LONG AFTER HE HAD FALLEN ASLEEP AND IF LATER IN THE EVENING THERE WERE LOUD VOICED ARGUMENTS OR QUARRELS EVEN DICKIE DID NOT HEAR THEM
+test-other/2033/164915/2033-164915-0016|2033-164915-0000 AND ALSO THESE
+test-other/2414/128292/2414-128292-0010|2414-128292-0000 WHITHER HATH MY LONESOMENESS GONE SPAKE HE
+test-other/2414/159411/2414-159411-0027|2414-159411-0000 ONCE UPON A TIME A BRAHMAN WHO WAS WALKING ALONG THE ROAD CAME UPON AN IRON CAGE IN WHICH A GREAT TIGER HAD BEEN SHUT UP BY THE VILLAGERS WHO CAUGHT HIM
+test-other/2609/157645/2609-157645-0000|2609-157645-0000 EVIDENTLY THE INTENTION WAS TO MAKE THINGS PLEASANT FOR THE ROYAL FOE OF TOBACCO DURING HIS VISIT
+test-other/3005/163389/3005-163389-0010|3005-163389-0000 THEY SWARMED UP IN FRONT OF SHERBURN'S PALINGS AS THICK AS THEY COULD JAM TOGETHER AND YOU COULDN'T HEAR YOURSELF THINK FOR THE NOISE
+test-other/3005/163391/3005-163391-0010|3005-163391-0000 WHICH WAS SOUND ENOUGH JUDGMENT BUT YOU TAKE THE AVERAGE MAN AND HE WOULDN'T WAIT FOR HIM TO HOWL
+test-other/3080/5032/3080-5032-0002|3080-5032-0000 BUT I AM HUGELY PLEASED THAT YOU HAVE SEEN MY LADY
+test-other/3080/5040/3080-5040-0025|3080-5040-0000 WOULD IT WOULD LEAVE ME AND THEN I COULD BELIEVE I SHALL NOT ALWAYS HAVE OCCASION FOR IT
+test-other/3331/159605/3331-159605-0041|3331-159605-0000 SHE PULLED HER HAIR DOWN TURNED HER SKIRT BACK PUT HER FEET ON THE FENDER AND TOOK PUTTEL INTO HER LAP ALL OF WHICH ARRANGEMENTS SIGNIFIED THAT SOMETHING VERY IMPORTANT HAD GOT TO BE THOUGHT OVER AND SETTLED
+test-other/3528/168669/3528-168669-0005|3528-168669-0000 THE PRIORESS RETURNED AND SEATED HERSELF ONCE MORE ON HER CHAIR
+test-other/3528/168669/3528-168669-0055|3528-168669-0000 THE PRIORESS RETURNED AND SEATED HERSELF ONCE MORE ON HER CHAIR
+test-other/3528/168669/3528-168669-0105|3528-168669-0000 THE PRIORESS RETURNED AND SEATED HERSELF ONCE MORE ON HER CHAIR
+test-other/3538/142836/3538-142836-0024|3538-142836-0000 GENERAL OBSERVATIONS ON PRESERVES CONFECTIONARY ICES AND DESSERT DISHES
+test-other/3538/163624/3538-163624-0007|3538-163624-0000 ONCE UPON A TIME THERE WAS A KING IN THE NORTH WHO HAD WON MANY WARS BUT NOW HE WAS OLD
+test-other/367/130732/367-130732-0030|367-130732-0000 LOBSTERS AND LOBSTERS
+test-other/3764/168670/3764-168670-0025|3764-168670-0000 THE STRIDES OF A LAME MAN ARE LIKE THE OGLING GLANCES OF A ONE EYED MAN THEY DO NOT REACH THEIR GOAL VERY PROMPTLY
+test-other/3764/168671/3764-168671-0017|3764-168671-0000 ON THE FOLLOWING DAY AS THE SUN WAS DECLINING THE VERY RARE PASSERS BY ON THE BOULEVARD DU MAINE PULLED OFF THEIR HATS TO AN OLD FASHIONED HEARSE ORNAMENTED WITH SKULLS CROSS BONES AND TEARS
+test-other/3997/180294/3997-180294-0012|3997-180294-0000 THE DUKE COMES EVERY MORNING THEY WILL TELL HIM WHEN HE COMES THAT I AM ASLEEP AND PERHAPS HE WILL WAIT UNTIL I WAKE
+test-other/3997/180297/3997-180297-0028|3997-180297-0000 I HAVE NOT COME TO HINDER YOU FROM LEAVING PARIS
+test-other/4198/12259/4198-12259-0025|4198-12259-0000 DRAW REACH FILL MIX GIVE IT ME WITHOUT WATER
+test-other/4198/61336/4198-61336-0015|4198-61336-0000 IT IS SIGNIFICANT TO NOTE IN THIS CONNECTION THAT THE NEW KING WAS AN UNSWERVING ADHERENT OF THE CULT OF ASHUR BY THE ADHERENTS OF WHICH HE WAS PROBABLY STRONGLY SUPPORTED
+test-other/4294/35475/4294-35475-0009|4294-35475-0000 BUT THE MIDDLE SON WAS LITTLE AND LORN HE WAS NEITHER DARK NOR FAIR HE WAS NEITHER HANDSOME NOR STRONG
+test-other/4350/10919/4350-10919-0002|4350-10919-0000 HE PERCEIVED THAT IT WAS NO GOOD TALKING TO THE OLD MAN AND THAT THE PRINCIPAL PERSON IN THE HOUSE WAS THE MOTHER
+test-other/4350/9170/4350-9170-0018|4350-9170-0000 EDUCATED PEOPLE OF THE UPPER CLASSES ARE TRYING TO STIFLE THE EVER GROWING SENSE OF THE NECESSITY OF TRANSFORMING THE EXISTING SOCIAL ORDER
+test-other/4852/28311/4852-28311-0007|4852-28311-0000 SAY YOU KNOW SUMTHIN
+test-other/4852/28312/4852-28312-0030|4852-28312-0000 OF THE MANY TIMES HE HAD EXAMINED MISTER WICKER'S WINDOW AND PORED OVER THE ROPE THE SHIP AND THE NUBIAN BOY HE HAD NEVER GONE INTO MISTER WICKER'S SHOP
+test-other/4852/28330/4852-28330-0020|4852-28330-0000 THEY WENT DOWN TO THEIR QUARTERS FIRST
+test-other/533/131556/533-131556-0019|533-131556-0000 BUT HOW AM I TO GET OVER THE TEN OR TWELVE DAYS THAT MUST YET ELAPSE BEFORE THEY GO
+test-other/533/131564/533-131564-0026|533-131564-0000 VAIN HOPE I FEAR
+test-other/5442/41169/5442-41169-0000|5442-41169-0000 LEVIN DID NOT CARE TO EAT AND HE WAS NOT SMOKING HE DID NOT WANT TO JOIN HIS OWN FRIENDS THAT IS SERGEY IVANOVITCH STEPAN ARKADYEVITCH SVIAZHSKY AND THE REST BECAUSE VRONSKY IN HIS EQUERRY'S UNIFORM WAS STANDING WITH THEM IN EAGER CONVERSATION
+test-other/5484/24317/5484-24317-0018|5484-24317-0000 WHEN HE CAME FROM THE BATH PROCLUS VISITED HIM AGAIN
+test-other/5484/24318/5484-24318-0034|5484-24318-0000 NOT A SOUND IF YOU VALUE YOUR LIVES
+test-other/5764/299665/5764-299665-0046|5764-299665-0000 AFTERWARD IT WAS SUPPOSED THAT HE WAS SATISFIED WITH THE BLOOD OF OXEN LAMBS AND DOVES AND THAT IN EXCHANGE FOR OR ON ACCOUNT OF THESE SACRIFICES THIS GOD GAVE RAIN SUNSHINE AND HARVEST
+test-other/5764/299665/5764-299665-0096|5764-299665-0000 AFTERWARD IT WAS SUPPOSED THAT HE WAS SATISFIED WITH THE BLOOD OF OXEN LAMBS AND DOVES AND THAT IN EXCHANGE FOR OR ON ACCOUNT OF THESE SACRIFICES THIS GOD GAVE RAIN SUNSHINE AND HARVEST
+test-other/6070/86744/6070-86744-0029|6070-86744-0000 FRANZ WHO SEEMED ATTRACTED BY SOME INVISIBLE INFLUENCE TOWARDS THE COUNT IN WHICH TERROR WAS STRANGELY MINGLED FELT AN EXTREME RELUCTANCE TO PERMIT HIS FRIEND TO BE EXPOSED ALONE TO THE SINGULAR FASCINATION THAT THIS MYSTERIOUS PERSONAGE SEEMED TO EXERCISE OVER HIM AND THEREFORE MADE NO OBJECTION TO ALBERT'S REQUEST BUT AT ONCE ACCOMPANIED HIM TO THE DESIRED SPOT AND AFTER A SHORT DELAY THE COUNT JOINED THEM IN THE SALON
+test-other/6128/63241/6128-63241-0001|6128-63241-0000 POOR RANSOM ANNOUNCED THIS FACT TO HIMSELF AS IF HE HAD MADE A GREAT DISCOVERY BUT IN REALITY HE HAD NEVER BEEN SO BOEOTIAN AS AT THAT MOMENT
+test-other/6432/63722/6432-63722-0011|6432-63722-0000 BUT SCUSE ME DIDN'T YO FIGGER ON DOIN SOME DETECTIN AN GIVE UP FISHIN
+test-other/6432/63723/6432-63723-0001|6432-63723-0000 CHUCKLED THE COLONEL AS HE SKILFULLY PLAYED THE LUCKLESS TROUT NOW STRUGGLING TO GET LOOSE FROM THE HOOK
+test-other/6432/63723/6432-63723-0051|6432-63723-0000 CHUCKLED THE COLONEL AS HE SKILFULLY PLAYED THE LUCKLESS TROUT NOW STRUGGLING TO GET LOOSE FROM THE HOOK
+test-other/7018/75788/7018-75788-0012|7018-75788-0000 THEN I TOOK UP A GREAT STONE FROM AMONG THE TREES AND COMING UP TO HIM SMOTE HIM THEREWITH ON THE HEAD WITH ALL MY MIGHT AND CRUSHED IN HIS SKULL AS HE LAY DEAD DRUNK
+test-other/7105/2330/7105-2330-0010|7105-2330-0000 UNFORTUNATELY THERE COULD BE NO DOUBT OR MISCONCEPTION AS TO PLATTERBAFF'S GUILT
+test-other/7105/2340/7105-2340-0018|7105-2340-0000 WITH THAT NOTORIOUS FAILING OF HIS HE WAS NOT THE SORT OF PERSON ONE WANTED IN ONE'S HOUSE
+test-other/7902/96592/7902-96592-0005|7902-96592-0000 SURE YOU'VE LOOKED ROUND EVERYWHERE BOY YES FATHER QUITE
+test-other/7902/96594/7902-96594-0004|7902-96594-0000 SEEMED IN GOOD SPIRITS LAST NIGHT MISTER GURR EH
+test-other/7902/96595/7902-96595-0021|7902-96595-0000 SAY MESTER GURR SAID DICK AFTER ONE OF THESE SEARCHES HE WOULDN'T RUN AWAY WHAT
+test-other/7975/280076/7975-280076-0011|7975-280076-0000 ALTHOUGH EVERY BOOK PURPORTING TO NARRATE THE LIVES OF THE YOUNGER BROTHERS HAS TOLD OF THE LIBERTY ROBBERY AND IMPLIED THAT WE HAD A PART IN IT THE YOUNGERS WERE NOT SUSPECTED AT THAT TIME NOR FOR A LONG TIME AFTERWARD
+test-other/7975/280085/7975-280085-0014|7975-280085-0000 THAT NIGHT IT STARTED TO RAIN AND WE WORE OUT OUR HORSES
+test-other/8131/117016/8131-117016-0045|8131-117016-0000 CAPTAIN MURDOCH
+test-other/8131/117029/8131-117029-0000|8131-117029-0000 THERE WAS A MAN COMING FROM EARTH ON A SECOND SHIP WHO WOULD SEE HIM
+test-other/8188/269288/8188-269288-0027|8188-269288-0000 ANNIE COLCHESTER HAD BEGUN TO MAKE FRIENDS WITH LESLIE
+test-other/8188/269290/8188-269290-0019|8188-269290-0000 THE GUILD OF SAINT ELIZABETH
+test-other/8188/274364/8188-274364-0011|8188-274364-0000 THE COMMONS ALSO VOTED THAT THE NEW CREATED PEERS OUGHT TO HAVE NO VOICE IN THIS TRIAL BECAUSE THE ACCUSATION BEING AGREED TO WHILE THEY WERE COMMONERS THEIR CONSENT TO IT WAS IMPLIED WITH THAT OF ALL THE COMMONS OF ENGLAND
+test-other/8280/266249/8280-266249-0049|8280-266249-0000 OLD MISTER DINSMORE HAD ACCEPTED A PRESSING INVITATION FROM HIS GRANDDAUGHTER AND HER HUSBAND TO JOIN THE PARTY AND WITH THE ADDITION OF SERVANTS IT WAS A LARGE ONE
+test-other/8461/281231/8461-281231-0000|8461-281231-0000 HIS FOLLOWERS RUSHED FORWARD TO WHERE HE LAY AND THEIR UNITED FORCE COMPELLING THE BLACK KNIGHT TO PAUSE THEY DRAGGED THEIR WOUNDED LEADER WITHIN THE WALLS

@@ -52,7 +52,6 @@ import auraloss
 
 torch.backends.cudnn.benchmark = False
 
-
 def train(rank, a, h):
     if h.num_gpus > 1:
         # initialize distributed
@@ -64,9 +63,13 @@ def train(rank, a, h):
         )
 
     # Set seed and device
-    torch.cuda.manual_seed(h.seed)
-    torch.cuda.set_device(rank)
-    device = torch.device(f"cuda:{rank:d}")
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed(h.seed)
+        torch.cuda.set_device(rank)
+        device = torch.device(f"cuda:{rank:d}")
+    elif torch.backends.mps.is_available():
+        torch.mps.manual_seed(h.seed)
+        device = torch.device(f"mps")
 
     # Define BigVGAN generator
     generator = BigVGAN(h).to(device)

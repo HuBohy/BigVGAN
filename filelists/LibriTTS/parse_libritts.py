@@ -8,18 +8,18 @@ def get_wav_and_text_filelist(data_root, data_type, subsample=1):
     wav_list = sorted(
         [
             path.replace(data_root, "")[1:]
-            for path in glob.glob(os.path.join(data_root, data_type, "**/**/*.wav"))
+            for path in glob.glob(os.path.join(data_root, data_type, "**/**/*.flac"))
         ]
     )
     wav_list = wav_list[::subsample]
-    txt_filelist = [path.replace(".wav", ".normalized.txt") for path in wav_list]
+    txt_filelist = [path.replace(f"-{path.split('-')[-1]}", ".trans.txt") for path in wav_list]
 
     txt_list = []
     for txt_file in txt_filelist:
         with open(os.path.join(data_root, txt_file), "r") as f_txt:
             text = f_txt.readline().strip("\n")
             txt_list.append(text)
-    wav_list = [path.replace(".wav", "") for path in wav_list]
+    wav_list = [path.replace(".flac", "") for path in wav_list]
 
     return wav_list, txt_list
 
